@@ -5,6 +5,14 @@
   width: 50rem;
   max-width: 95%;
 }
+.filtered-list{
+  list-style: none;
+  padding: 0;
+}
+.fallback {
+  color: white;
+  text-align: center;
+}
 .expenses-filter {
   color: white;
   padding: 0 1rem;
